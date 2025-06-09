@@ -5,6 +5,7 @@
   "license": "ISC",
   "author": "Roberto Waner",
   "main": "src/app.js",
+  "type": "module",
   "scripts": {
     "dev": "nodemon src/app.js"
   },
